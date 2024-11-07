@@ -37,3 +37,15 @@
 
 - fetch.html
 - videoModal.html
+
+# 6 스크롤 헤더 고정
+
+- scroll-fixed-header.html
+
+# 7 사이드 내비게이션 바
+
+- sidebar-active.html
+
+# 8 검색바 기능
+
+- seaechbar.html
